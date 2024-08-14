@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.error{
+    margin-top: 20px;
+}

@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.error {
+    margin-top: 20px;
+}
+
+.e {
+    font-size: 18px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 10px; /* Optional: Add some padding around the text */
+    text-align: center;
+    background-color: red;
+    border-radius: 10px;
+}
+

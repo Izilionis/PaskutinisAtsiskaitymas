@@ -1,0 +1,12 @@
+.textField{
+    display: flex;
+    justify-content: space-around;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.fields{
+    width: 300px;
+}
